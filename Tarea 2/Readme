@@ -1,0 +1,23 @@
+# Tarea 02 Paloma Riquelme 
+
+Este repositorio contiene los archivos correspondientes a la **Tarea 02**.
+
+## Descripción de la tarea
+La tarea consiste en crear un programa en Python que genere una carpeta llamada `tarea_02` y guarde dentro de ella los distintos archivos solicitados.  
+Cada archivo corresponde a la resolución de un problema de programación básico en Python.
+Ademas agregue arcrivo llamado "Tarea 2" Donde estan todos los problemas en un solo archivo. 
+
+## Archivos incluidos
+- `problema1.py`: imprime los números del -100 al 200.
+- ´problema1.ipynb: imprime los números del -100 al 200.
+- `problema2.py`: imprime los números del -100 al 200 que sean divisibles por 6.
+- ´problema2.ipynb: imprime los números del -100 al 200 que sean divisibles por 6.
+- `problema3.py`: suma dos números ingresados por el usuario y muestra un mensaje dependiendo del resultado.
+- problema3.ipynb:  suma dos números ingresados por el usuario y muestra un mensaje dependiendo del resultado.
+- `problema4.py`: función que evalúa la edad y los gustos musicales del usuario para entregar un mensaje personalizado.
+- problema4.ipynb:  función que evalúa la edad y los gustos musicales del usuario para entregar un mensaje personalizado.
+- `Tarea 2.py`: Contiene los 4 problemas. 
+- `Tarea 2.ipynb`: Contiene los 4 problemas. 
+## Comentarios
+- En cada archivo se agregaron **comentarios en el código** explicando paso a paso lo que hace cada paso, como sugirieron ustedes.
+- Este repositorio está pensado para mostrar la estructura ordenada de una tarea en programación.
